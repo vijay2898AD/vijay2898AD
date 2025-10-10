@@ -88,6 +88,21 @@ Here are some of the projects I'm proud of.
 
 ---
 
+---
+### 📜 My Certifications
+
+- **Advanced Full Stack Development Internship** | Innomatics Research Labs 
+- **Front-End Development Program** | Innomatics Research Labs 
+- **JavaScript Essentials 1 (JSE)** | Cisco Networking Academy 
+- **Cloud Computing** | NPTEL (IIT Kharagpur) 
+- **AI-ML Virtual Internship** | APSCHE EduSkills (Supported by AWS Academy)
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vijay2898AD&theme=dracula" alt="Trophies" />
+  </a>
+</p>
+
 ### 📊 My GitHub Stats
 
 <p align="center">
