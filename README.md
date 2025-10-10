@@ -88,7 +88,6 @@ Here are some of the projects I'm proud of.
 
 ---
 
----
 ### 📜 My Certifications
 
 - **Advanced Full Stack Development Internship** | Innomatics Research Labs 
@@ -97,11 +96,7 @@ Here are some of the projects I'm proud of.
 - **Cloud Computing** | NPTEL (IIT Kharagpur) 
 - **AI-ML Virtual Internship** | APSCHE EduSkills (Supported by AWS Academy)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vijay2898AD&theme=dracula" alt="Trophies" />
-  </a>
-</p>
+---
 
 ### 📊 My GitHub Stats
 
@@ -109,4 +104,12 @@ Here are some of the projects I'm proud of.
   <img src="https://github-readme-stats.vercel.app/api?username=vijay2898AD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay2898AD&layout=compact&theme=dracula" alt="Top Languages">
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vijay2898AD&theme=dracula" alt="Trophies" />
+  </a>
 </p>
