@@ -2,7 +2,7 @@
 <h3 align="center">A Full-Stack Developer specializing in Front-End Development with React.js.</h3>
 
 <p align="center">
-  <a href="mailto:vijayvipparthi8030@gmail.com" target="_blank">
+  <a href="(mailto:vijayvipparthi8030@gmail.com)" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/vijay-vipparthi-dev/" target="_blank">
@@ -22,7 +22,7 @@ I am a detail-oriented **Full-Stack Developer** with a deep expertise in front-e
 - 🔭 I’m passionate about creating component-based architectures and developing pixel-perfect, responsive designs. 
 - 🌱 I’m eager to leverage my problem-solving skills and passion for modern web technologies in a challenging role. 
 - 👯 I’m looking to collaborate on innovative open-source projects.
-- 📫 You can reach me at **vijayvipparthi8030@gmail.com**. 
+- 📫 You can reach me at [**vijayvipparthi8030@gmail.com**](mailto:vijayvipparthi8030@gmail.com). 
 
 ---
 
