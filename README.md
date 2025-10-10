@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Vijay Vipparthi 👋</h1>
-<h3 align="center">A Front-End Developer building modern, responsive web applications.</h3>
+<h3 align="center">A Full-Stack Developer specializing in Front-End Development with React.js.</h3>
 
 <p align="center">
   <a href="mailto:vijayvipparthi8030@gmail.com" target="_blank">
@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/vijay-vipparthi-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://portfolio-taupe-six-66.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
 </p>
@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I am a detail-oriented Front-End Developer from Visakhapatnam, India. As a recent B.Tech graduate, I have hands-on experience building full-stack applications from my MERN stack internship, where I developed a complete Hospital Management System from scratch.
+I am a detail-oriented **Full-Stack Developer** with a deep expertise in front-end technologies from Visakhapatnam, India. As a recent B.Tech graduate, I have hands-on experience building full-stack applications and I also engineered responsive front-end interfaces with React.js and TailwindCSS, built secure RESTful APIs using Node.js and Express.js , and managed database schemas in MongoDB.
 
 - 🔭 I’m passionate about creating component-based architectures and developing pixel-perfect, responsive designs. 
 - 🌱 I’m eager to leverage my problem-solving skills and passion for modern web technologies in a challenging role. 
@@ -31,6 +31,12 @@ I am a detail-oriented Front-End Developer from Visakhapatnam, India. As a recen
 Here are some of the technologies I've worked with:
 
 <p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
@@ -41,7 +47,7 @@ Here are some of the technologies I've worked with:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/T/three-js-logo-07A32307F1-seeklogo.com.png" alt="threejs" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="40" height="40"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
@@ -57,7 +63,13 @@ Here are some of the technologies I've worked with:
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="git" width="40" height="40"/> 
+  </a>
 </p>
 
 ---
@@ -68,15 +80,15 @@ Here are some of the projects I'm proud of.
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **README Generator**  | A user-friendly, single-page application that helps developers quickly create professional and well-structured README files for their projects. | `React.js` `Tailwind CSS` `JavaScript`  | [**Live Demo**](YOUR_README_GEN_DEMO_LINK) • [**GitHub**](YOUR_README_GEN_GITHUB_LINK)  |
-| **PX to REM Converter**  | A fast and intuitive web tool that allows developers to instantly convert pixel (PX) values to relative REM units, streamlining responsive design workflows.  | `React.js` `CSS3` `JavaScript`  | [cite_start][**Live Demo**](YOUR_CONVERTER_DEMO_LINK) • [**GitHub**](YOUR_CONVERTER_GITHUB_LINK)  |
+| **README Generator**  | A user-friendly, single-page application that helps developers quickly create professional and well-structured README files for their projects. | `React.js` `Tailwind CSS` `JavaScript`  | [**Live Demo**](https://readme-generator-smoky.vercel.app/) • [**GitHub**](https://github.com/vijay2898AD/readme-generator)  |
+| **PX to REM Converter**  | A fast and intuitive web tool that allows developers to instantly convert pixel (PX) values to relative REM units, streamlining responsive design workflows.  | `React.js` `CSS3` `JavaScript`  | [**Live Demo**](https://px-to-rem-converter-gilt.vercel.app/) • [**GitHub**](https://github.com/vijay2898AD/PX-to-REM-converter)  |
 
 ---
 
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijay2898AD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay2898AD&layout=compact&theme=dracula" alt="Top Languages">
 </p>
