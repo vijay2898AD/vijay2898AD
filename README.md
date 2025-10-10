@@ -82,6 +82,9 @@ Here are some of the projects I'm proud of.
 |---|---|---|---|
 | **README Generator**  | A user-friendly, single-page application that helps developers quickly create professional and well-structured README files for their projects. | `React.js` `Tailwind CSS` `JavaScript`  | [**Live Demo**](https://readme-generator-smoky.vercel.app/) • [**GitHub**](https://github.com/vijay2898AD/readme-generator)  |
 | **PX to REM Converter**  | A fast and intuitive web tool that allows developers to instantly convert pixel (PX) values to relative REM units, streamlining responsive design workflows.  | `React.js` `CSS3` `JavaScript`  | [**Live Demo**](https://px-to-rem-converter-gilt.vercel.app/) • [**GitHub**](https://github.com/vijay2898AD/PX-to-REM-converter)  |
+| **Meme Generator** | An interactive web application for creating custom memes. Users can generate a new meme template and add personalized top and bottom text. | `React.js` `CSS3` `JavaScript` | [**Live Demo**](https://meme-generator-lovat-rho.vercel.app/) • [**GitHub**](https://github.com/vijay2898AD/MEME-Generator) |
+| **Hospital Management System** | A full-stack web application built to manage hospital operations. Features include secure, role-based authentication for admins and patients , a dynamic doctor availability calendar , and appointment scheduling. | `React.js` `Node.js` `Express.js` `MongoDB`  | [**Live Demo**](https://hospital-management-peach-xi.vercel.app/) • [**GitHub**](https://github.com/vijay2898AD/hospital-management) |
+| **Personal Portfolio (Legacy)** | My previous personal portfolio website built to showcase my skills and projects. It features a clean, single-page layout and was created using foundational web technologies. | `HTML5` `CSS3` `JavaScript` `React.js` | [**Live Demo**](https://vijay2898ad.github.io/portfolio/) • [**GitHub**](https://github.com/vijay2898AD/portfolio) |
 
 ---
 
