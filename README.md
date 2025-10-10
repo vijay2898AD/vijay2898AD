@@ -90,11 +90,13 @@ Here are some of the projects I'm proud of.
 
 ### 📜 My Certifications
 
-- **Advanced Full Stack Development Internship** | Innomatics Research Labs 
-- **Front-End Development Program** | Innomatics Research Labs 
-- **JavaScript Essentials 1 (JSE)** | Cisco Networking Academy 
-- **Cloud Computing** | NPTEL (IIT Kharagpur) 
-- **AI-ML Virtual Internship** | APSCHE EduSkills (Supported by AWS Academy)
+- [**Advanced Full Stack Development Internship**](https://drive.google.com/file/d/1cSZQ8dHzGW9yoPf1woRCGmYZkZ2KRk2o/view?usp=drive_link) | Innomatics Research Labs 
+- [**Front-End Development Program**](https://drive.google.com/file/d/1T0gKvyZ0wrZhhjw4tGxLnKO2cpb2pAI0/view?usp=drive_link) | Innomatics Research Labs 
+- [**JavaScript Essentials 1 (JSE)**](https://drive.google.com/file/d/1en_jWqw6pLq8Y30ZMl_oS_n9k4wHNWaG/view?usp=drive_link) | Cisco Networking Academy 
+- [**Cloud Computing**](https://drive.google.com/file/d/11mLixj__hVqXKAJX3eowtxWgN8IXUDcg/view?usp=drive_link) | NPTEL (IIT Kharagpur) 
+- [**AI-ML Virtual Internship**](https://drive.google.com/file/d/1hRaZ5zjruU1npdT9bUatX9SQ8U-N7rmP/view?usp=drive_link) | APSCHE EduSkills (Supported by AWS Academy)
+- [**PCAP:Programming Essentials in Python**](https://drive.google.com/file/d/1d19DlWOYUeIvBk3YUQzjV0oKzL_lVOH5/view?usp=drive_link) | Cisco Networking Academy
+- [**Leadership and Team Effectiveness**](https://drive.google.com/file/d/1gmTcsboe7X3zsudShit0r-CPNchZWzxO/view?usp=drive_link) | NPTEL (IIT Roorkee)
 
 ---
 
@@ -106,10 +108,3 @@ Here are some of the projects I'm proud of.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay2898AD&layout=compact&theme=dracula" alt="Top Languages">
 </p>
 
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vijay2898AD&theme=dracula" alt="Trophies" />
-  </a>
-</p>
