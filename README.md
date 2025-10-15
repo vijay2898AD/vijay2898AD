@@ -63,9 +63,15 @@ Here are some of the technologies I've worked with:
   </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <div style={{ 
-      backgroundColor: 'white', 
-      borderRadius: '4px', 
-      padding: '2px'
+      backgroundColor: '#f0f0f0', 
+    borderRadius: '50%', // Makes the background circular
+    padding: '5px', 
+    width: '50px', // Ensures the circle is large enough to contain the 40x40 icon + padding
+    height: '50px',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    boxShadow: '0 0 5px rgba(255, 255, 255, 0.1)'
     }}>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
     </div>
