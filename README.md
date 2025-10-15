@@ -50,8 +50,7 @@ Here are some of the technologies I've worked with:
      <div style={{ 
       backgroundColor: 'white', 
       borderRadius: '4px', 
-      padding: '2px', 
-      display: 'inline-block' 
+      padding: '2px'
     }}>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="40" height="40"/>
     </div>
@@ -66,8 +65,7 @@ Here are some of the technologies I've worked with:
     <div style={{ 
       backgroundColor: 'white', 
       borderRadius: '4px', 
-      padding: '2px', 
-      display: 'inline-block' 
+      padding: '2px'
     }}>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
     </div>
