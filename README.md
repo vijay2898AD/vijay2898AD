@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vijay Vipparthi 👋</h1>
+<h1 align="center" style="color🚙">Hi there, I'm Vijay Vipparthi 👋</h1>
 <h3 align="center">A Full-Stack Developer specializing in Front-End Development with React.js.</h3>
 
 <p align="center">
