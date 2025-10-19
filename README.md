@@ -76,7 +76,7 @@ Here are some of the technologies I've worked with:
 
 ### ✨ My Projects
 
-Here are some of the projects I'm proud of
+Here are some of the projects I'm proud of.
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
