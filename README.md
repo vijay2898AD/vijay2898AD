@@ -70,6 +70,9 @@ Here are some of the technologies I've worked with:
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
 </p>
 
 ---
