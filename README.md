@@ -22,7 +22,7 @@ I am a detail-oriented **Full-Stack Developer** with a deep expertise in front-e
 - 🔭 I’m passionate about creating component-based architectures and developing pixel-perfect, responsive designs. 
 - 🌱 I’m eager to leverage my problem-solving skills and passion for modern web technologies in a challenging role. 
 - 👯 I’m looking to collaborate on innovative open-source projects.
-- 📫 You can reach me at [**vijayvipparthi8030@gmail.com**](mailto:vijayvipparthi8030@gmail.com). 
+- 📫 You can reach me at [**vijayvipparthi8030@gmail.com**](mailto:vijayvipparthi8030@gmail.com) or via [**LinkedIn**](https://www.linkedin.com/in/vijay-vipparthi-dev/). 
 
 ---
 
