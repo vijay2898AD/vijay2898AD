@@ -92,7 +92,7 @@ Here are some of the technologies I've worked with:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
   </a>
   <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/pmnd-rs/zustand/main/logo.png" alt="Zustand" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/pmnd-rs/zustand/main/logo.png" alt="Zustand" width="40" height="40"/>
   </a>
   <a href="https://docs.mendix.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mendix/mendix-original.svg" alt="Mendix" width="40" height="40"/>
