@@ -125,7 +125,7 @@ Here are some of the projects I'm proud of.
 - [**Cloud Computing**](https://drive.google.com/file/d/11mLixj__hVqXKAJX3eowtxWgN8IXUDcg/view?usp=drive_link) | IIT Kharagpur
 - [**AI-ML Virtual Internship**](https://drive.google.com/file/d/1hRaZ5zjruU1npdT9bUatX9SQ8U-N7rmP/view?usp=drive_link) | APSCHE EduSkills (Supported by AWS Academy)
 - [**PCAP:Programming Essentials in Python**](https://drive.google.com/file/d/1d19DlWOYUeIvBk3YUQzjV0oKzL_lVOH5/view?usp=drive_link) | Cisco Networking Academy
-- [**Leadership and Team Effectiveness**](https://drive.google.com/file/d/1gmTcsboe7X3zsudShit0r-CPNchZWzxO/view?usp=drive_link) | NPTEL (IIT Roorkee)
+- [**Leadership and Team Effectiveness**](https://drive.google.com/file/d/1gmTcsboe7X3zsudShit0r-CPNchZWzxO/view?usp=drive_link) | IIT Roorkee
 
 ---
 
