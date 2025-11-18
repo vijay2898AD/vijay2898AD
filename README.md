@@ -20,7 +20,7 @@
 I am a detail-oriented **Full-Stack Developer** with a deep expertise in front-end technologies from Visakhapatnam, India. As a recent B.Tech graduate, I have hands-on experience building full-stack applications and I also engineered responsive front-end interfaces with React.js, TypeScript and TailwindCSS, built secure RESTful APIs using Node.js and Express.js , and managed database schemas in MongoDB.
 
 - 🔭 I’m passionate about creating component-based architectures and developing pixel-perfect, responsive designs.
-- 🌱 I’m eager to leverage my problem-solving skills and passion for modern web technologies in a challenging role. 
+- 🌱 I’m eager to leverage my problem-solving skills and passion for modern web technologies in a challenging role.
 - 👯 I’m looking to collaborate on innovative open-source projects.
 - 📫 You can reach me at [**vijayvipparthi8030@gmail.com**](mailto:vijayvipparthi8030@gmail.com) or via [**LinkedIn**](https://www.linkedin.com/in/vijay-vipparthi-dev/). 
 
