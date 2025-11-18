@@ -119,7 +119,7 @@ Here are some of the projects I'm proud of.
 
 ### 📜 My Certifications
 
-- [**Advanced Full Stack Development Internship**](https://drive.google.com/file/d/1cSZQ8dHzGW9yoPf1woRCGmYZkZ2KRk2o/view?usp=drive_link) | Innomatics Research Labs 
+- [**Advanced Full Stack Development Internship**](https://drive.google.com/file/d/1cSZQ8dHzGW9yoPf1woRCGmYZkZ2KRk2o/view?usp=drive_link) | Innomatics Research Labs
 - [**Front-End Development Program**](https://drive.google.com/file/d/1T0gKvyZ0wrZhhjw4tGxLnKO2cpb2pAI0/view?usp=drive_link) | Innomatics Research Labs
 - [**JavaScript Essentials 1 (JSE)**](https://drive.google.com/file/d/1en_jWqw6pLq8Y30ZMl_oS_n9k4wHNWaG/view?usp=drive_link) | Cisco Networking Academy
 - [**Cloud Computing**](https://drive.google.com/file/d/11mLixj__hVqXKAJX3eowtxWgN8IXUDcg/view?usp=drive_link) | IIT Kharagpur
